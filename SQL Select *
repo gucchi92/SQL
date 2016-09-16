@@ -1,1 +1,2 @@
 select * from table_tbl
+--this allows you to select all the observtions from the table in question i.e. table_tbl--
